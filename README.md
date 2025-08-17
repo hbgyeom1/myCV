@@ -27,6 +27,7 @@
   <b>• Zarathu Internship</b> (Jul. 2025 – Present)<br>
   &nbsp;&nbsp;&nbsp;Intern<br>
   <br>
-  &nbsp;&nbsp;&nbsp;• Clinical data analysis<br>
-  &nbsp;&nbsp;&nbsp;• R package development (https://github.com/zarathucorp/rashnu)<br>
+  &nbsp;&nbsp;&nbsp;• Clinical Data Analysis<br>
+  &nbsp;&nbsp;&nbsp;• Data Visualization and Interactive Dashboards using R Shiny<br>
+  &nbsp;&nbsp;&nbsp;• R Package Contribution - [rashnu](https://github.com/zarathucorp/rashnu)<br>
 </p>
