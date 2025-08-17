@@ -22,4 +22,4 @@
 *Intern*
 - Clinical Data Analysis
 - Data Visualization and Interactive Dashboards using R Shiny
-- R Package Contribution – [rashnu](https://github.com/zarathucorp/rashnu)
+- R Package Contribution – [rashnu](https://github.com/zarathucorp/rashnu), [jskm](https://github.com/jinseob2kim/jskm), [jstable](https://github.com/jinseob2kim/jstable), [jsmodule](https://github.com/jinseob2kim/jsmodule)
