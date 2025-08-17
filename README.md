@@ -8,7 +8,7 @@
 </p>
 
 ## Education
-- **Kyung Hee University** (Mar. 2023 – Present)<br>
+**Kyung Hee University** (Mar. 2023 – Present)<br>
   Department of Industrial and Management Systems Engineering<br>
   <br>
   Bachelor Student<br>
@@ -19,8 +19,8 @@
 - TBD
 
 ## Research Experiences
-- **Zarathu Internship** (Jul. 2025 – Present)<br>
+**Zarathu Internship** (Jul. 2025 – Present)<br>
 *Intern*<br>
-  - Clinical Data Analysis<br>
-  - Data Visualization and Interactive Dashboards using R Shiny<br>
-  - R Package Contribution – [rashnu](https://github.com/zarathucorp/rashnu), [jskm](https://github.com/jinseob2kim/jskm), [jstable](https://github.com/jinseob2kim/jstable), [jsmodule](https://github.com/jinseob2kim/jsmodule)<br>
+- Clinical Data Analysis<br>
+- Data Visualization and Interactive Dashboards using R Shiny<br>
+- R Package Contribution – [rashnu](https://github.com/zarathucorp/rashnu), [jskm](https://github.com/jinseob2kim/jskm), [jstable](https://github.com/jinseob2kim/jstable), [jsmodule](https://github.com/jinseob2kim/jsmodule)<br>
