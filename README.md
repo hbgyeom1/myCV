@@ -9,7 +9,7 @@
 
 ## Education
 **- Kyung Hee University** (Mar. 2023 – Present)  
-  Department of Industrial and Management Systems Engineering  
+  Department of Industrial and Management Systems Engineering<br>
   Bachelor Student  
   GPA: 3.54 / 4.5
 
