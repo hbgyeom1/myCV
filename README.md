@@ -31,3 +31,12 @@
   &nbsp;&nbsp;&nbsp;• Data Visualization and Interactive Dashboards using R Shiny<br>
   &nbsp;&nbsp;&nbsp;• R Package Contribution - [rashnu](https://github.com/zarathucorp/rashnu)<br>
 </p>
+
+## Research Experiences
+
+**Zarathu Internship** (Jul. 2025 – Present)  
+*Intern*  
+
+- Clinical Data Analysis  
+- Data Visualization and Interactive Dashboards using R Shiny  
+- R Package Contribution – [rashnu](https://github.com/zarathucorp/rashnu)
