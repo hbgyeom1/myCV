@@ -44,8 +44,10 @@ Ministry of Science and ICT, Korea
 ## Skills and Techniques
 **Programming and Development**
 - Languages: Python, R, C, C++, Bash
-- Tools and Environments: Linux, Git, Docker, Vim, Visual Studio Code, RStudio<br>
+- Tools and Environments: Linux, Git, Docker, Vim, Visual Studio Code, RStudio
+
 **Artificial Intelligence and Machine Learning**
 - Libraries and Frameworks: TensorFlow, Keras, scikit-learn, OpenCV, Hugging Face
 - Applications: Object detection, speech recognition, model fine-tuning (YOLOv5, Whisper)
+
 **Statistical Analysis**
