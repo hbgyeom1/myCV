@@ -34,7 +34,8 @@ Gwangju Institute of Science and Technology, Korea<br>
 - https://github.com/hbgyeom/Table_tennis_robot-
 
 ## Projects
-**2024 XR Device Contents Makeathon** (Oct. 2024 – Nov. 2024)
+**2024 XR Device Contents Makeathon** (Oct. 2024 – Nov. 2024)<br>
+Ministry of Science and ICT, Korea
 - Real-time dysarthria detection and correction application
 - Fine-tuned Whisper (AI) using dysarthria speech recognition data from AI-Hub (Python)
 - VR device application using Unity (C#)
