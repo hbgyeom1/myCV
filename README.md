@@ -9,7 +9,7 @@
 
 ## Education
 **Kyung Hee University** (Mar. 2023 – Present)<br>
-*Department of Industrial and Management Systems Engineering*<br>
+*Department of Industrial and Management Systems Engineering*
 - Bachelor Student
 - GPA: 3.54 / 4.5
 
@@ -19,15 +19,22 @@
 
 ## Research Experiences
 **Zarathu Internship** (Jul. 2025 – Present)<br>
-*Intern*<br>
+*Intern*
 - Clinical Data Analysis
 - Data Visualization and Interactive Dashboards using R Shiny
 - R Package Contribution – [rashnu](https://github.com/zarathucorp/rashnu), [jskm](https://github.com/jinseob2kim/jskm), [jstable](https://github.com/jinseob2kim/jstable), [jsmodule](https://github.com/jinseob2kim/jsmodule)
 
 ## Awards and Honors
 **2024 8th GIST AI Innovative Convergence Technology Contest** (Jul. 2024 – Aug. 2024)<br>
-*1st Place*<br>
+*1st Place*
 - Table Tennis Robot Contest
 - Ball detection and trajectory calculation using OpenCV and YOLOv5 (C++)
 - Rack-and-pinion robot using actuators, linear rail, and 3D-printed components (C++)
 - https://github.com/hbgyeom/Table_tennis_robot-
+
+## Projects
+**2024 XR Device Contents Makeathon** (Oct. 2024 – Nov. 2024)
+- Real-time dysarthria detection and detection and correcƟon application
+- Fine-tuned Whisper (AI) using dysarthria speech recognition data from AI-Hub (Python)
+- VR device application using Unity (C#)
+- https://github.com/hbgyeom/XR_make-a-ton
