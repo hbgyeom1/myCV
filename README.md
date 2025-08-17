@@ -10,6 +10,7 @@
 <h2>Education</h2>
 <p>
   <b>• Kyung Hee University</b>
+  Department of Industrial and Management Systems Engineering
 </p>
   Department of Industrial and Management Systems Engineering
 
