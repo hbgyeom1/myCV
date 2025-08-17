@@ -36,8 +36,14 @@ Ministry of Science and ICT
 
 ## Skills and Techniques
 **Programming and Development**
-- Languages: Python, R, C, C++, Bash
+- Programming Languages: Python, R, C, C++, Bash
 - Tools and Environments: Linux, Git, Docker
+
+**Artificial Intelligence and Machine Learning**
+
+**Statistical Analysis**
+- R Packages: 
+- Methods: t-test, Chi-square Test, ANOVA, Linear/Logistic Regression
 
 ## Languages
 **English - Professional Working Proficiency**
