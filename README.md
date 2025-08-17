@@ -7,8 +7,14 @@
 
 ## Education
 **Kyung Hee University** (Mar. 2023 – Present)<br>
-*B.S. Candidate in Industrial and Management Systems Engineering Expected May 2026*
+*B.S. Candidate in Industrial and Management Systems Engineering, Expected May 2026*
 - GPA: 3.54 / 4.5
 
 ## Research Interests
 - Medical Big Data and Artificial Intelligence in Healthcare
+
+## Research Experiences
+**Research Intern, Zarathu** (Jul. 2025 – Present)
+- Conducted clinical data analysis using **R**
+- Developed interactive dashboards with **R Shiny**
+- Contributed to open-source R packages: [rashnu](https://github.com/zarathucorp/rashnu), [jskm](https://github.com/jinseob2kim/jskm), [jstable](https://github.com/jinseob2kim/jstable), [jsmodule](https://github.com/jinseob2kim/jsmodule)
