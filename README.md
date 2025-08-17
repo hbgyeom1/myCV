@@ -5,7 +5,7 @@
   Yongin 17104, Republic of Korea<br>
   hbgyeom@gmail.com<br>
   +82) 010-5184-1425
-</p>  
+</p>
 ## Education
 **Kyung Hee University** (Mar. 2023 – Present)  
 Department of Industrial and Management Systems Engineering  
