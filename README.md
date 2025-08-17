@@ -2,6 +2,7 @@
 <p align="center">
   <a href="mailto:hbgyeom@gmail.com">Email</a> | 
   <a href="https://github.com/hbgyeom1">GitHub</a><br>
+  <a href="www.linkedin.com/in/gyeom-hwangbo-6338a6377">LinkedIn</a>
 </p>
 
 ## Education
