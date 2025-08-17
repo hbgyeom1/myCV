@@ -33,3 +33,9 @@ Ministry of Science and ICT
 - Developed a real-time VR application for dysarthria detection and correction using **Unity (C#)**
 - Fine-tuned **Whisper** with dysarthria speech recognition data from AI-Hub (**Python**)
 - [GitHub Repository](https://github.com/hbgyeom1/XR_make-a-ton)
+
+## Languages
+**English - Professional Working Proficiency**
+- TOEIC: 965 / 990 (Feb. 2025)
+- OPIc: IH (Jul. 2024)
+- Army English interpreter (Dec. 2021 – Jun. 2023)
