@@ -10,8 +10,8 @@
 <h2>Education</h2>
 <p>
   <b>• Kyung Hee University</b><br>
-    Department of Industrial and Management Systems Engineering<br>
+  &nbsp;&nbsp;Department of Industrial and Management Systems Engineering<br>
   <br>
-    Bachelor Student<br>
-    GPA: 3.54 / 4.5
+  &nbsp;&nbsp;Bachelor Student<br>
+  &nbsp;&nbsp;GPA: 3.54 / 4.5
 </p>
