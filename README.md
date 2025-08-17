@@ -1,42 +1,32 @@
-<h1 align="center">Gyeom Hwangbo</h1>
-<p align="center">
-  Bachelor Student<br>
-  Kyung Hee University<br>
-  Yongin 17104, Republic of Korea<br>
-  hbgyeom@gmail.com<br>
-  +82) 010-5184-1425
-</p>
+# Gyeom Hwangbo
 
-<h2>Education</h2>
-<p>
-  <b>• Kyung Hee University</b> (Mar. 2023 – Present)<br>
-  &nbsp;&nbsp;&nbsp;Department of Industrial and Management Systems Engineering<br>
-  <br>
-  &nbsp;&nbsp;&nbsp;Bachelor Student<br>
-  &nbsp;&nbsp;&nbsp;GPA: 3.54 / 4.5
-</p>
+Bachelor Student  
+Kyung Hee University  
+Yongin 17104, Republic of Korea  
+hbgyeom@gmail.com  
++82) 010-5184-1425  
 
-<h2>Research Interests</h2>
-<p>
-  • Medical Big Data and Artificial Intelligence in Healthcare<br>
-  • TBD
-</p>
+---
 
-<h2>Research Experiences</h2>
-<p>
-  <b>• Zarathu Internship</b> (Jul. 2025 – Present)<br>
-  &nbsp;&nbsp;&nbsp;Intern<br>
-  <br>
-  &nbsp;&nbsp;&nbsp;• Clinical Data Analysis<br>
-  &nbsp;&nbsp;&nbsp;• Data Visualization and Interactive Dashboards using R Shiny<br>
-  &nbsp;&nbsp;&nbsp;• R Package Contribution - [rashnu](https://github.com/zarathucorp/rashnu)<br>
-</p>
+## Education
+**Kyung Hee University** (Mar. 2023 – Present)  
+Department of Industrial and Management Systems Engineering  
+
+- Bachelor Student  
+- GPA: 3.54 / 4.5  
+
+---
+
+## Research Interests
+- Medical Big Data and Artificial Intelligence in Healthcare  
+- TBD  
+
+---
 
 ## Research Experiences
-
 **Zarathu Internship** (Jul. 2025 – Present)  
 *Intern*  
 
 - Clinical Data Analysis  
 - Data Visualization and Interactive Dashboards using R Shiny  
-- R Package Contribution – [rashnu](https://github.com/zarathucorp/rashnu)
+- R Package Contribution – [rashnu](https://github.com/zarathucorp/rashnu)  
