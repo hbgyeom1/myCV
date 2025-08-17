@@ -4,3 +4,6 @@
 <p align="center">Yongin 17104, Republic of Korea</p>
 <p align="center">hbgyeom@gmail.com</p>
 <p align="center">+82)010-5184-1425</p>
+
+text layout
+miccheck
