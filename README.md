@@ -2,7 +2,7 @@
 <p align="center">
   Email: <a href="mailto:hbgyeom@gmail.com">hbgyeom@gmail.com</a> | 
   Phone: 010-5184-1425 | 
-  GitHub: <a href="https://github.com/hbgyeom">hbgyeom</a><br>
+  GitHub: <a href="https://github.com/hbgyeom1">hbgyeom</a><br>
 </p>
 
 ## Education
