@@ -25,7 +25,7 @@
 - R Package Contribution – [rashnu](https://github.com/zarathucorp/rashnu), [jskm](https://github.com/jinseob2kim/jskm), [jstable](https://github.com/jinseob2kim/jstable), [jsmodule](https://github.com/jinseob2kim/jsmodule)
 
 ## Awards and Honors
-- **2024 8th GIST AI Innovative Convergence Technology Contest** (Jul. 2024 – Aug. 2024)<br>
+**2024 8th GIST AI Innovative Convergence Technology Contest** (Jul. 2024 – Aug. 2024)<br>
 *1st Place*<br>
 - Clinical Data Analysis<br>
 - Data Visualization and Interactive Dashboards using R Shiny
