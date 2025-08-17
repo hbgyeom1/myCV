@@ -15,3 +15,6 @@
   &nbsp;&nbsp;&nbsp;Bachelor Student<br>
   &nbsp;&nbsp;&nbsp;GPA: 3.54 / 4.5
 </p>
+
+<div align="left">왼쪽</div>
+<div align="right">오른쪽</div>
