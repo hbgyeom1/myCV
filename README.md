@@ -16,4 +16,4 @@
   &nbsp;&nbsp;&nbsp;GPA: 3.54 / 4.5
 </p>
 
-#h(1fr) #align(right)[right]
+#align(left)[left] #h(1fr) [right]
