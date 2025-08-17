@@ -26,6 +26,7 @@
 
 ## Awards and Honors
 **2024 8th GIST AI Innovative Convergence Technology Contest** (Jul. 2024 – Aug. 2024)<br>
+Gwangju Institute of Science and Technology, Korea<br>
 *1st Place*
 - Table Tennis Robot Contest
 - Ball detection and trajectory calculation using OpenCV and YOLOv5 (C++)
@@ -34,7 +35,7 @@
 
 ## Projects
 **2024 XR Device Contents Makeathon** (Oct. 2024 – Nov. 2024)
-- Real-time dysarthria detection and detection and correcƟon application
+- Real-time dysarthria detection and detection and correction application
 - Fine-tuned Whisper (AI) using dysarthria speech recognition data from AI-Hub (Python)
 - VR device application using Unity (C#)
 - https://github.com/hbgyeom/XR_make-a-ton
