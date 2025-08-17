@@ -1,8 +1,7 @@
 <h1 align="center">Gyeom Hwangbo</h1>
 <p align="center">
-  Email: <a href="mailto:hbgyeom@gmail.com">hbgyeom@gmail.com</a> | 
-  Phone: 010-5184-1425 | 
-  GitHub: <a href="https://github.com/hbgyeom1">hbgyeom</a><br>
+  Email: <a href="mailto:hbgyeom@gmail.com">Email</a> | 
+  GitHub: <a href="https://github.com/hbgyeom1">GitHub</a><br>
 </p>
 
 ## Education
