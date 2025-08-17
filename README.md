@@ -26,3 +26,10 @@ Gwangju Institute of Science and Technology
 - Implemented ball detection and trajectory prediction using **OpenCV** and **YOLOv5 (C++)**
 - Built a rack-and-pinion robot using actuators, linear rail, and 3D-printed components (**C++**)
 - [GitHub Repository](https://github.com/hbgyeom1/Table_tennis_robot-)
+
+## Projects
+**2024 XR Device Contents Makeathon** (Oct. 2024 – Nov. 2024)
+Ministry of Science and ICT
+- Developed a real-time VR application for dysarthria detection and correction using **Unity (C#)**
+- Fine-tuned **Whisper** with dysarthria speech recognition data from AI-Hub (**Python**)
+- [GitHub Repository](https://github.com/hbgyeom1/XR_make-a-ton)
