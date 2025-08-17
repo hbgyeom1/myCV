@@ -6,6 +6,7 @@
   hbgyeom@gmail.com<br>
   +82) 010-5184-1425
 </p>
+
 ## Education
 **Kyung Hee University** (Mar. 2023 – Present)  
 Department of Industrial and Management Systems Engineering  
