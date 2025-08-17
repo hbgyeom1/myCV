@@ -9,7 +9,7 @@
 
 <h2>Education</h2>
 <p>
-  <b>• Kyung Hee University</b>
+  <b>• Kyung Hee University</b><br>
     Department of Industrial and Management Systems Engineering
 </p>
   Bachelor Student
