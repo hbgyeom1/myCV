@@ -38,4 +38,4 @@ Ministry of Science and ICT
 **English - Professional Working Proficiency**
 - TOEIC: 965 / 990 (Feb. 2025)
 - OPIc: IH (Jul. 2024)
-- Army English interpreter (Dec. 2021 – Jun. 2023)
+- Army English Interpreter (Dec. 2021 – Jun. 2023)
