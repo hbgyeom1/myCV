@@ -18,3 +18,11 @@
 - Conducted clinical data analysis using **R**
 - Developed interactive dashboards with **R Shiny**
 - Contributed to open-source R packages: [rashnu](https://github.com/zarathucorp/rashnu), [jskm](https://github.com/jinseob2kim/jskm), [jstable](https://github.com/jinseob2kim/jstable), [jsmodule](https://github.com/jinseob2kim/jsmodule)
+
+## Awards and Honors
+**1st Place, 2024 8th GIST AI Innovative Convergence Technology Contest** (Jul. 2024 – Aug. 2024)
+Gwangju Institute of Science and Technology
+- Developed an autonomous table tennis robot
+- Implemented ball detection and trajectory prediction using **OpenCV** and **YOLOv5 (C++)**
+- Built a rack-and-pinion robot using actuators, linear rail, and 3D-printed components (**C++**)
+- [GitHub Repository](https://github.com/hbgyeom/Table_tennis_robot-)
