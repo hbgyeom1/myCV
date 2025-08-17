@@ -6,7 +6,7 @@
 </p>
 
 ## Education
-**Kyung Hee University** (Mar. 2023 – Present)<br>
+**Kyung Hee University** (Mar. 2020 – Present)<br>
 *B.S. Candidate in Industrial and Management Systems Engineering, Expected May 2026*
 - GPA: 3.54 / 4.5
 
