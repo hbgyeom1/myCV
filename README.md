@@ -19,7 +19,7 @@
 - TBD
 
 ## Research Experiences
-**Zarathu Internship** (Jul. 2025 – Present)<br>
+- **Zarathu Internship** (Jul. 2025 – Present)<br>
 *Intern*<br>
 - Clinical Data Analysis<br>
 - Data Visualization and Interactive Dashboards using R Shiny<br>
