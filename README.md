@@ -30,4 +30,4 @@
 - Table Tennis Robot Contest
 - Ball detection and trajectory calculation using OpenCV and YOLOv5 (C++)
 - Rack-and-pinion robot using actuators, linear rail, and 3D-printed components (C++)
-- https://github.com/hbgyeom/Table_tennis_robot
+- https://github.com/hbgyeom/Table_tennis_robot-
