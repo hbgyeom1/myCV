@@ -16,5 +16,9 @@
   &nbsp;&nbsp;&nbsp;GPA: 3.54 / 4.5
 </p>
 
-<div align="left">왼쪽</div>
-<div align="right">오른쪽</div>
+<table width="100%">
+  <tr>
+    <td align="left">왼쪽</td>
+    <td align="right">오른쪽</td>
+  </tr>
+</table>
