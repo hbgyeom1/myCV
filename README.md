@@ -34,6 +34,11 @@ Ministry of Science and ICT
 - Fine-tuned **Whisper** with dysarthria speech recognition data from AI-Hub (**Python**)
 - [GitHub Repository](https://github.com/hbgyeom1/XR_make-a-ton)
 
+## Skills and Techniques
+**Programming and Development**
+- Languages: Python, R, C, C++, Bash
+- Tools and Environments: Linux, Git, Docker
+
 ## Languages
 **English - Professional Working Proficiency**
 - TOEIC: 965 / 990 (Feb. 2025)
