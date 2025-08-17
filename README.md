@@ -18,7 +18,7 @@
 
 <h2>Research Interests</h2>
 <p>
-  • Medical Big Data and Artificial Intelligence in Healthcare
+  • Medical Big Data and Artificial Intelligence in Healthcare<br>
   • TBD
 </p>
 
@@ -27,6 +27,6 @@
   <b>• Zarathu Internship</b> (Jul. 2025 – Present)<br>
   &nbsp;&nbsp;&nbsp;Intern<br>
   <br>
-  &nbsp;&nbsp;&nbsp;Bachelor Student<br>
-  &nbsp;&nbsp;&nbsp;GPA: 3.54 / 4.5
+  &nbsp;&nbsp;&nbsp;• Clinical data analysis<br>
+  &nbsp;&nbsp;&nbsp;• R package development (https://github.com/zarathucorp/rashnu)<br>
 </p>
