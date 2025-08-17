@@ -6,3 +6,7 @@
   Phone: 010-5184-1425 | 
   GitHub: <a href="https://github.com/hbgyeom">hbgyeom</a><br>
 </p>
+
+## Education
+**Kyung Hee University** (Mar. 2023 – Present)
+*B.S. Candidate in Industrial and Management Systems Engineering (Expected May 2026, GPA: 3.54/4.5)*
