@@ -1,7 +1,7 @@
 <h1 align="center">Gyeom Hwangbo</h1>
 <p align="center">
-  Email: <a href="mailto:hbgyeom@gmail.com">Email</a> | 
-  GitHub: <a href="https://github.com/hbgyeom1">GitHub</a><br>
+  <a href="mailto:hbgyeom@gmail.com">Email</a> | 
+  <a href="https://github.com/hbgyeom1">GitHub</a><br>
 </p>
 
 ## Education
