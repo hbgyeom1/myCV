@@ -51,3 +51,13 @@ Ministry of Science and ICT, Korea
 - Applications: Object detection, speech recognition, model fine-tuning (YOLOv5, Whisper)
 
 **Statistical Analysis**
+- R Packages: tidyverse, dplyr, ggplot2, data.table, Shiny, MatchIt, jskm, jsmodule, jstable
+- Statistical Tests: t-test, Chi-square test, ANOVA, CorrelaƟon analysis
+- Models: Linear regression, Logistic Regression, Cox PH model, ARIMA
+- Causal Inference: Propensity Score Matching (PSM)
+
+## Languages
+**Fluent English**
+- TOEIC 965 / 990 (Feb. 2025)
+- OPIc IH (Jul. 2024)
+- English Interpreter, G-3 Operations, I Corps (Dec. 2021 – Jun. 2023)
