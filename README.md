@@ -1,2 +1,1 @@
-# Gyeom Hwangbo
-<h1 align="center">example text</h1>
+<h1 align="center">Gyeom Hwangbo</h1>
