@@ -6,3 +6,5 @@
   hbgyeom@gmail.com<br>
   +82) 010-5184-1425
 </p>
+
+<h2>Education</h2>
