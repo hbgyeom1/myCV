@@ -7,7 +7,8 @@
 
 ## Education
 **Kyung Hee University** (Mar. 2023 – Present)<br>
-*B.S. Candidate in Industrial and Management Systems Engineering (Expected May 2026, GPA: 3.54/4.5)*
+*B.S. Candidate in Industrial and Management Systems Engineering*
+- Expected May 2026, GPA: 3.54 / 4.5
 
 ## Research Interests
 - Medical Big Data and Artificial Intelligence in Healthcare
