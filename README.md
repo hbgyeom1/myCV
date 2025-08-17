@@ -17,9 +17,10 @@
 ## Research Interests
 - Medical Big Data and Artificial Intelligence in Healthcare
 - TBD
+
 ## Research Experiences
-**Zarathu Internship** (Jul. 2025 – Present)
-*Intern*
-- Clinical Data Analysis
-- Data Visualization and Interactive Dashboards using R Shiny
-- R Package Contribution – [rashnu](https://github.com/zarathucorp/rashnu), [jskm](https://github.com/jinseob2kim/jskm), [jstable](https://github.com/jinseob2kim/jstable), [jsmodule](https://github.com/jinseob2kim/jsmodule)
+**Zarathu Internship** (Jul. 2025 – Present)<br>
+*Intern*<br>
+- Clinical Data Analysis<br>
+- Data Visualization and Interactive Dashboards using R Shiny<br>
+- R Package Contribution – [rashnu](https://github.com/zarathucorp/rashnu), [jskm](https://github.com/jinseob2kim/jskm), [jstable](https://github.com/jinseob2kim/jstable), [jsmodule](https://github.com/jinseob2kim/jsmodule)<br>
