@@ -1,4 +1,4 @@
-# Gyeom Hwangbo
+<h1 align="center">Gyeom Hwangbo</h1>
 <p align="center">
   Bachelor Student<br>
   Kyung Hee University<br>
