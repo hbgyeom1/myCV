@@ -1,6 +1,8 @@
 # Gyeom Hwangbo
-#### Bachelor Student
-#### Kyung Hee University
-#### Yongin 17104, Republic of Korea
-#### hbgyeom@gmail.com
-#### +82) 010-5184-1425
+<p align="center">
+  Bachelor Student<br>
+  Kyung Hee University<br>
+  Yongin 17104, Republic of Korea<br>
+  hbgyeom@gmail.com<br>
+  +82) 010-5184-1425
+</p>
