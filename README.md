@@ -15,3 +15,18 @@
   &nbsp;&nbsp;&nbsp;Bachelor Student<br>
   &nbsp;&nbsp;&nbsp;GPA: 3.54 / 4.5
 </p>
+
+<h2>Research Interests</h2>
+<p>
+  • Medical Big Data and Artificial Intelligence in Healthcare
+  • TBD
+</p>
+
+<h2>Research Experiences</h2>
+<p>
+  <b>• Zarathu Internship</b> (Jul. 2025 – Present)<br>
+  &nbsp;&nbsp;&nbsp;Intern<br>
+  <br>
+  &nbsp;&nbsp;&nbsp;Bachelor Student<br>
+  &nbsp;&nbsp;&nbsp;GPA: 3.54 / 4.5
+</p>
