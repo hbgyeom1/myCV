@@ -11,6 +11,7 @@
 
 ## Research Interests
 - Medical Big Data and Artificial Intelligence in Healthcare
+- TBD
 
 ## Research Experiences
 **Research Intern, Zarathu** (Jul. 2025 – Present)
