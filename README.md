@@ -11,7 +11,7 @@
 **- Kyung Hee University** (Mar. 2023 – Present)  
   Department of Industrial and Management Systems Engineering  
   Bachelor Student  
-  GPA: 3.54 / 4.5  
+  GPA: 3.54 / 4.5
 
 ## Research Interests
 - Medical Big Data and Artificial Intelligence in Healthcare
