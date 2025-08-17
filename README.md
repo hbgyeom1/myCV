@@ -20,7 +20,7 @@
 - Contributed to open-source R packages: [rashnu](https://github.com/zarathucorp/rashnu), [jskm](https://github.com/jinseob2kim/jskm), [jstable](https://github.com/jinseob2kim/jstable), [jsmodule](https://github.com/jinseob2kim/jsmodule)
 
 ## Awards and Honors
-**1st Place, 2024 8th GIST AI Innovative Convergence Technology Contest** (Jul. 2024 – Aug. 2024)
+**1st Place, 2024 8th GIST AI Innovative Convergence Technology Contest** (Jul. 2024 – Aug. 2024)<br>
 Gwangju Institute of Science and Technology
 - Developed an autonomous table tennis robot
 - Implemented ball detection and trajectory prediction using **OpenCV** and **YOLOv5 (C++)**
