@@ -9,7 +9,7 @@
 
 <h2>Education</h2>
 <p>
-  <b>• Kyung Hee University</b>(Mar. 2023 – Present)<br>
+  <b>• Kyung Hee University</b> (Mar. 2023 – Present)<br>
   &nbsp;&nbsp;&nbsp;Department of Industrial and Management Systems Engineering<br>
   <br>
   &nbsp;&nbsp;&nbsp;Bachelor Student<br>
