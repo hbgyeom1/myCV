@@ -8,16 +8,17 @@
 </p>
 
 ## Education
-**Kyung Hee University** (Mar. 2023 – Present)  
-Department of Industrial and Management Systems Engineering  
-- Bachelor Student  
-- GPA: 3.54 / 4.5  
+**Kyung Hee University** (Mar. 2023 – Present)
+Department of Industrial and Management Systems Engineering
+- Bachelor Student
+- GPA: 3.54 / 4.5
+
 ## Research Interests
-- Medical Big Data and Artificial Intelligence in Healthcare  
-- TBD  
+- Medical Big Data and Artificial Intelligence in Healthcare
+- TBD
 ## Research Experiences
-**Zarathu Internship** (Jul. 2025 – Present)  
-*Intern*  
-- Clinical Data Analysis  
-- Data Visualization and Interactive Dashboards using R Shiny  
-- R Package Contribution – [rashnu](https://github.com/zarathucorp/rashnu)  
+**Zarathu Internship** (Jul. 2025 – Present)
+*Intern*
+- Clinical Data Analysis
+- Data Visualization and Interactive Dashboards using R Shiny
+- R Package Contribution – [rashnu](https://github.com/zarathucorp/rashnu)
