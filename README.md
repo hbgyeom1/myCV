@@ -10,8 +10,8 @@
 ## Education
 **Kyung Hee University** (Mar. 2023 – Present)<br>
 *Department of Industrial and Management Systems Engineering*<br>
-- Bachelor Student<br>
-- GPA: 3.54 / 4.5<br>
+- Bachelor Student
+- GPA: 3.54 / 4.5
 
 ## Research Interests
 - Medical Big Data and Artificial Intelligence in Healthcare
@@ -20,12 +20,14 @@
 ## Research Experiences
 **Zarathu Internship** (Jul. 2025 – Present)<br>
 *Intern*<br>
-- Clinical Data Analysis<br>
-- Data Visualization and Interactive Dashboards using R Shiny<br>
+- Clinical Data Analysis
+- Data Visualization and Interactive Dashboards using R Shiny
 - R Package Contribution – [rashnu](https://github.com/zarathucorp/rashnu), [jskm](https://github.com/jinseob2kim/jskm), [jstable](https://github.com/jinseob2kim/jstable), [jsmodule](https://github.com/jinseob2kim/jsmodule)
 
 ## Awards and Honors
 **2024 8th GIST AI Innovative Convergence Technology Contest** (Jul. 2024 – Aug. 2024)<br>
 *1st Place*<br>
-- Clinical Data Analysis<br>
-- Data Visualization and Interactive Dashboards using R Shiny
+- Table Tennis Robot Contest
+- Ball detection and trajectory calculation using OpenCV and YOLOv5 (C++)
+- Rack-and-pinion robot using actuators, linear rail, and 3D-printed components (C++)
+- https://github.com/hbgyeom/Table_tennis_robot
