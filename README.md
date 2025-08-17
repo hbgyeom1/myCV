@@ -16,17 +16,4 @@
   &nbsp;&nbsp;&nbsp;GPA: 3.54 / 4.5
 </p>
 
-<table>
-  <tr>
-    <td width="950px" align="left">
-      <b>
-       𝟯. 𝗗𝗔𝗧𝗔 𝗖𝗟𝗘𝗔𝗡𝗜𝗡𝗚 & 𝗙𝗜𝗟𝗧𝗘𝗥𝗜𝗡𝗚
-      </b>
-    </td>
-    <td width="50px" align="right">
-      <a href="LINK-TO-#table-of-contents"><b>
-       𝗧𝗢𝗖
-      </b></a>
-    </td>
-  </tr>
-</table>
+#align(left)[left] #h(1fr) #align(right)[right]
