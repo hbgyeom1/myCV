@@ -25,4 +25,4 @@ Gwangju Institute of Science and Technology
 - Developed an autonomous table tennis robot
 - Implemented ball detection and trajectory prediction using **OpenCV** and **YOLOv5 (C++)**
 - Built a rack-and-pinion robot using actuators, linear rail, and 3D-printed components (**C++**)
-- [GitHub Repository](https://github.com/hbgyeom/Table_tennis_robot-)
+- [GitHub Repository](https://github.com/hbgyeom1/Table_tennis_robot-)
