@@ -35,7 +35,7 @@ Gwangju Institute of Science and Technology, Korea<br>
 
 ## Projects
 **2024 XR Device Contents Makeathon** (Oct. 2024 – Nov. 2024)
-- Real-time dysarthria detection and detection and correction application
+- Real-time dysarthria detection and correction application
 - Fine-tuned Whisper (AI) using dysarthria speech recognition data from AI-Hub (Python)
 - VR device application using Unity (C#)
 - https://github.com/hbgyeom/XR_make-a-ton
