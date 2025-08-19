@@ -27,6 +27,9 @@ Gwangju Institute of Science and Technology
 - Built a rack-and-pinion robot using actuators, linear rail, and 3D-printed components (**C++**)
 - [GitHub Repository](https://github.com/hbgyeom1/Table_tennis_robot-)
 
+**1st Place, 2025 9th GIST AI Innovative Convergence Technology Contest** (Jul. 2024 – Aug. 2024)<br>
+Gwangju Institute of Science and Technology
+
 ## Projects
 **2024 XR Device Contents Makeathon** (Oct. 2024 – Nov. 2024)<br>
 Ministry of Science and ICT
