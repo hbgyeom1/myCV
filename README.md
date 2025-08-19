@@ -16,8 +16,8 @@
 ## Research Experiences
 **Research Intern, Zarathu** (Jul. 2025 – Present)
 - Conducted clinical data analysis using **R**
-- Developed interactive dashboards with **R Shiny**
-- Contributed to open-source R packages: [rashnu](https://github.com/zarathucorp/rashnu), [jskm](https://github.com/jinseob2kim/jskm), [jstable](https://github.com/jinseob2kim/jstable), [jsmodule](https://github.com/jinseob2kim/jsmodule)
+- Deployed interactive dashboards using **R Shiny**
+- Contributed to R packages: [rashnu](https://github.com/zarathucorp/rashnu), [jskm](https://github.com/jinseob2kim/jskm), [jstable](https://github.com/jinseob2kim/jstable), [jsmodule](https://github.com/jinseob2kim/jsmodule)
 
 ## Awards and Honors
 **1st Place, 2024 8th GIST AI Innovative Convergence Technology Contest** (Jul. 2024 – Aug. 2024)<br>
@@ -43,10 +43,13 @@ Ministry of Science and ICT
 - Tools and Environments: Linux, Git, Docker
 
 **Artificial Intelligence and Machine Learning**
+- Machine Learning: Regression, Classification, Clustering
+- Deep Learning: Neural Networks (CNN, RNN, Transformer), Fine-tuning
+- Frameworks and Libraries: TensorFlow, Keras, scikit-learn
 
 **Statistical Analysis**
-- R Packages: 
-- Methods: t-test, Chi-square Test, ANOVA, Linear/Logistic Regression
+- Methods: t-test, Chi-square test, ANOVA, Regression (Linear/Logistic/Cox), PSM, ARIMA
+- R Packages: tidyverse, data.table, survival
 
 ## Languages
 **English - Professional Working Proficiency**
