@@ -14,7 +14,8 @@
 - Artificial Intelligence in Healthcare
 
 ## Research Experiences
-**Research Intern, Zarathu** (Jul. 2025 – Present)
+**Zarathu** (Jul. 2025 – Present)<br>
+Research Intern
 - Conducted clinical data analysis using **R**
 - Deployed interactive dashboards using **R Shiny**
 - Contributed to R packages: [rashnu](https://github.com/zarathucorp/rashnu), [jskm](https://github.com/jinseob2kim/jskm), [jstable](https://github.com/jinseob2kim/jstable), [jsmodule](https://github.com/jinseob2kim/jsmodule)
