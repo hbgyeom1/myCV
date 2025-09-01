@@ -10,8 +10,8 @@
 *B.S. Candidate in Industrial and Management Systems Engineering, Expected Feb. 2026*
 
 ## Research Interests
-- Medical Big Data and Artificial Intelligence in Healthcare
-- TBD
+- CDM-based Medical Big Data Analysis
+- Artificial Intelligence in Healthcare
 
 ## Research Experiences
 **Research Intern, Zarathu** (Jul. 2025 – Present)
