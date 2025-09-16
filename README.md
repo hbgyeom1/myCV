@@ -14,7 +14,7 @@
 - Artificial Intelligence in Healthcare
 
 ## Research Experiences
-**Zarathu** (Jul. 2025 – Present)<br>
+**Zarathu** (Jul. 2025 – Aug. 2025)<br>
 Research Intern
 - Conducted clinical data analysis using **R**
 - Deployed interactive dashboards using **R Shiny**
