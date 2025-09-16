@@ -14,6 +14,8 @@
 - Artificial Intelligence in Healthcare
 
 ## Research Experiences
+**Kyung Hee University** (Sep. 2025 – Present)<br>
+Research Intern
 **Zarathu** (Jul. 2025 – Aug. 2025)<br>
 Research Intern
 - Conducted clinical data analysis using **R**
